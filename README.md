@@ -61,11 +61,11 @@ asr.reset() // Reset internal model state
   * English (before fine-tuning): **6.5%** on LibriSpeech `test-other`
 
 🔗 **Download Russian model:**
-[Link to model](https://drive.google.com/file/d/1rcrEwXFU_DTmW5KCv7nQ7h0SbFFnS9yu/view?usp=sharing)
+[Link to model](https://drive.google.com/file/d/1Bk1U-mJz1hxd4l_t1VPWv3Z57N0oqUuD/view?usp=sharing)
 
 For other languages or custom domains, contact me:
 
-📧 **[8444691@gmail.com](mailto:8444691@gmail.com)**
+📧 **[otosaku.dsp@gmail.com](mailto:otosaku.dsp@gmail.com)**
 
 ---
 
@@ -96,7 +96,7 @@ This package is designed with privacy in mind:
 
 If you have any questions, suggestions, or are interested in adapting the model to another language or domain:
 
-**Email:** [8444691@gmail.com](mailto:8444691@gmail.com)
+**Email:** [otosaku.dsp@gmail.com](mailto:otosaku.dsp@gmail.com)
 
 ---
 
