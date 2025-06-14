@@ -9,6 +9,13 @@
 * 🛠 Modular architecture (feature extractor, encoder, decoder)
 
 ---
+## 🎥 Demo
+
+Watch the model running live on iPhone 13:
+
+![Demo running on iPhone](media/demo.gif)
+
+---
 
 ## 📆 Installation
 
