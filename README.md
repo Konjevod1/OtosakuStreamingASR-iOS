@@ -13,7 +13,7 @@
 
 Watch the model running live on iPhone 13:
 
-![Demo running on iPhone](media/demo.gif)
+![Demo running on iPhone](Media/demo.gif)
 
 ---
 
